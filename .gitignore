@@ -1,0 +1,5 @@
+*.iml
+.idea
+*.lock
+.packages
+.metadata
